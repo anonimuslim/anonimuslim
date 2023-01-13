@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **anonimuslim/anonimuslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- yang atas adalah generate asli dari github -->
+## Hi, I am Anonimuslim!
+<div>
+  <a href="https://github.com/anonimuslim">
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anonimuslim&layout=compact&langs_count=16&theme=dracula"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=anonimuslim&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+    </div>
+  ![Snake animation](https://github.com/anonimuslim/anonimuslim/blob/output/github-contribution-grid-snake.svg)
+</div>
