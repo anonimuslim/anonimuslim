@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- yang atas adalah generate asli dari github -->
+
 ![Snake animation](https://github.com/anonimuslim/anonimuslim/blob/output/github-contribution-grid-snake.svg)
 ---
 ![](https://github-readme-stats.vercel.app/api?username=anonimuslim&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
