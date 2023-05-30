@@ -34,14 +34,5 @@ Here are some ideas to get you started:
 | ![Visitor Count](https://profile-counter.glitch.me/{anonimuslim}/count.svg) | [![wakatime](https://wakatime.com/badge/user/fa190b12-8c00-42d8-b542-223f912ebc42.svg)](https://wakatime.com/@fa190b12-8c00-42d8-b542-223f912ebc42) |
 ---
 <!--START_SECTION:waka-->
-
-```text
-Java         7 hrs 53 mins   ██████████████████████▓░░   90.51 %
-HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-XML          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-```
-
 <!--END_SECTION:waka-->
 ---
