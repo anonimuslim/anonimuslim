@@ -33,3 +33,6 @@ Here are some ideas to get you started:
 |:---:|:---:|
 | ![Visitor Count](https://profile-counter.glitch.me/{anonimuslim}/count.svg) | [![wakatime](https://wakatime.com/badge/user/fa190b12-8c00-42d8-b542-223f912ebc42.svg)](https://wakatime.com/@fa190b12-8c00-42d8-b542-223f912ebc42) |
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
