@@ -64,10 +64,11 @@ Sunday                   123 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     4 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   84.77 % 
+Other                    0 secs              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.23 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -83,6 +84,6 @@ PLSQL                    1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 05/06/2024 00:43:02 UTC
+ Last Updated on 06/06/2024 00:42:57 UTC
 <!--END_SECTION:waka-->
 ---
