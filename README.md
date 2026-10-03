@@ -66,22 +66,22 @@ Sunday                   122 commits         ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-SQL                      10 hrs 9 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.19 % 
-Other                    16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.67 % 
-Markdown                 7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.12 % 
-Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 % 
+SQL                      6 hrs 11 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   93.92 % 
+Other                    16 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 % 
+Markdown                 7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.80 % 
+Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.02 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 26 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.88 % 
-Antigravity Desktop      7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.12 % 
+VS Code                  6 hrs 28 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.20 % 
+Antigravity Desktop      7 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 mins (3.82%)
+⏱ AI Coding Time: 24 mins (6.12%)
 
-✍️ 0 lines written by AI, 300 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 92 lines written by hand (0.0% AI-written)
 
 🔤 977,139 Input Tokens, 98,789 Output Tokens
 
@@ -112,6 +112,6 @@ Go                       1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 02/10/2026 03:21:04 UTC
+ Last Updated on 03/10/2026 03:06:51 UTC
 <!--END_SECTION:waka-->
 ---
